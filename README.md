@@ -88,3 +88,14 @@
 ### Семинар 16. Коэффициент Спирмена. Таблицы сопряжённости (29 мая)
 
 * Основные задачи ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/seminar16.pdf)).
+
+## Таблицы распределения и памятки
+
+* Таблица стандартного нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/stand_normal.pdf)).
+* Памятка по работе с таблицей стандартного нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/st_norm_table.pdf)).
+* Памятка по нахождению квантилей нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/quantiles.pdf)).
+* Таблица распределения Стьюдента ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/student.pdf)).
+* Памятка по описательным статистикам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/descriptives.pdf)).
+* Памятка по доверительным интервалам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/conf-intervals.pdf)).
+* Памятка по проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/hypo.pdf)).
+* Ещё раз о доверительных интервалах и проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/ci-hypo-short.pdf)).
