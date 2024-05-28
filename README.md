@@ -91,11 +91,11 @@
 
 ## Таблицы распределения и памятки
 
-* Таблица стандартного нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/stand_normal.pdf)).
-* Памятка по работе с таблицей стандартного нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/st_norm_table.pdf)).
-* Памятка по нахождению квантилей нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/quantiles.pdf)).
-* Таблица распределения Стьюдента ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/student.pdf)).
-* Памятка по описательным статистикам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/descriptives.pdf)).
-* Памятка по доверительным интервалам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/conf-intervals.pdf)).
-* Памятка по проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/hypo.pdf)).
-* Ещё раз о доверительных интервалах и проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/ci-hypo-short.pdf)).
+* Таблица стандартного нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/stand_normal.pdf)).
+* Памятка по работе с таблицей стандартного нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/st_norm_table.pdf)).
+* Памятка по нахождению квантилей нормального распределения ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/quantiles.pdf)).
+* Таблица распределения Стьюдента ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/student.pdf)).
+* Памятка по описательным статистикам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/descriptives.pdf)).
+* Памятка по доверительным интервалам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/conf-intervals.pdf)).
+* Памятка по проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/hypo.pdf)).
+* Ещё раз о доверительных интервалах и проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/ci-hypo-short.pdf)).
