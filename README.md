@@ -94,6 +94,7 @@
 ### Семинар 16. Коэффициент Спирмена. Таблицы сопряжённости (29 мая)
 
 * Основные задачи ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/seminars/seminar16.pdf)).
+* Разбор задачи на критерий хи-квадрат ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/seminars/chisq.pdf)).
 
 ## Таблицы распределения и памятки
 
