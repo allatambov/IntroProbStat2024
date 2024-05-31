@@ -105,3 +105,4 @@
 * Памятка по доверительным интервалам ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/conf-intervals.pdf)).
 * Памятка по проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/hypo.pdf)).
 * Ещё раз о доверительных интервалах и проверке гипотез ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/ci-hypo-short.pdf)).
+* Памятка по коэффициентам корреляции ([pdf](https://github.com/allatambov/IntroProbStat2024/blob/main/add/correlations.pdf)).
