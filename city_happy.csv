@@ -1,0 +1,135 @@
+,City,Decibel_Level,Traffic_Density,Green_Space_Area,Happiness_Score,Cost_of_Living_Index,Air_Quality_Category,Happiness_Cat
+0,New York,70,High,35,6.5,100,Good,High
+1,Los Angeles,65,Medium,40,6.8,90,Moderate,High
+2,Chicago,60,Medium,30,7.0,85,Moderate,High
+3,London,55,High,50,7.2,110,Moderate,High
+4,Paris,60,High,45,6.9,95,Moderate,High
+5,Berlin,50,Low,55,7.5,80,Good,High
+6,Tokyo,65,High,30,6.0,120,Moderate,High
+7,Seoul,70,High,25,5.8,105,Moderate,High
+8,Mumbai,80,Very High,15,4.5,70,Moderate,Low
+9,Sydney,55,Low,60,7.8,115,Good,High
+10,Istanbul,75,High,45,6.8,75,Moderate,High
+11,Rio de Janeiro,65,Medium,50,6.5,80,Moderate,High
+12,Toronto,60,Medium,55,7.1,95,Good,High
+13,Mexico City,70,Very High,35,5.2,65,Moderate,High
+14,Cape Town,55,Low,60,7.6,70,Good,High
+15,Bangkok,80,High,25,4.0,50,Unhealthy for sensititive,Low
+16,Buenos Aires,65,High,40,6.1,60,Moderate,High
+17,Amsterdam,50,Low,75,7.9,105,Moderate,High
+18,Cairo,75,Very High,20,3.5,55,Unhealthy for sensititive,Low
+19,Moscow,60,High,30,5.8,70,Moderate,High
+20,Singapore,65,High,45,7.0,125,Moderate,High
+21,Dubai,70,Medium,35,6.0,110,Unhealthy for sensititive,High
+22,Hong Kong,75,High,25,5.5,130,Moderate,High
+23,Barcelona,60,Medium,65,7.7,90,Good,High
+24,Lisbon,55,Low,70,7.8,75,Good,High
+25,Melbourne,55,Low,60,7.9,115,Good,High
+26,Auckland,50,Low,80,8.1,100,Good,High
+27,Rome,60,High,40,6.7,85,Moderate,High
+28,Athens,65,Medium,45,6.2,70,Moderate,High
+29,Vienna,55,Low,70,8.2,95,Good,High
+30,Dublin,60,Medium,55,7.0,105,Good,High
+31,Copenhagen,50,Low,75,8.3,110,Good,High
+32,Stockholm,55,Low,80,8.0,100,Good,High
+33,Oslo,50,Low,85,8.5,115,Good,High
+34,Helsinki,55,Low,90,8.4,90,Good,High
+35,Prague,60,Medium,50,7.3,80,Moderate,High
+36,Budapest,65,Medium,45,6.8,75,Moderate,High
+37,Warsaw,60,Medium,40,6.7,70,Moderate,High
+38,Sofia,70,High,35,6.0,60,Moderate,High
+39,Belgrade,75,High,30,5.5,55,Moderate,High
+40,São Paulo,70,High,40,5.0,65,Moderate,High
+41,Lima,75,Very High,25,4.2,55,Moderate,Low
+42,Santiago,65,High,35,5.5,70,Unhealthy for sensititive,High
+43,Bogota,70,High,30,5.0,60,Unhealthy for sensititive,High
+44,Caracas,75,Very High,20,3.0,50,Unhealthy for sensititive,Low
+45,Quito,65,High,25,4.5,55,Unhealthy for sensititive,Low
+46,Panama City,70,Medium,30,5.8,60,Unhealthy for sensititive,High
+47,Kingston,75,High,25,5.5,65,Unhealthy for sensititive,High
+48,Havana,65,Medium,35,6.0,50,Unhealthy for sensititive,High
+49,Santo Domingo,70,High,30,5.5,55,Unhealthy for sensititive,High
+50,San Juan,75,High,25,6.0,70,Unhealthy for sensititive,High
+51,Manila,80,Very High,20,4.5,45,Unhealthy for sensititive,Low
+52,Jakarta,80,Very High,15,4.0,40,Unhealthy,Low
+53,Kuala Lumpur,75,High,25,5.2,55,Unhealthy,High
+54,Taipei,70,High,30,5.8,75,Unhealthy,High
+55,Shanghai,75,Very High,20,5.0,80,Unhealthy,High
+56,Beijing,80,Very High,15,4.5,85,Unhealthy,Low
+57,New Delhi,85,Very High,10,3.5,60,Unhealthy,Low
+58,Tehran,80,Very High,15,3.0,45,Unhealthy,Low
+59,Karachi,85,Very High,10,3.0,40,Unhealthy,Low
+60,Dhaka,90,Very High,5,2.5,35,Unhealthy,Low
+61,Colombo,75,High,25,5.5,45,Unhealthy,High
+62,Islamabad,80,Very High,20,3.5,40,Very unhealthy,Low
+63,Kathmandu,75,High,25,4.5,35,Very unhealthy,Low
+64,Yangon,80,Very High,20,3.5,30,Very unhealthy,Low
+65,Hanoi,85,Very High,15,3.0,35,Very unhealthy,Low
+66,Phnom Penh,80,Very High,10,2.5,30,Very unhealthy,Low
+67,Vientiane,75,High,15,4.0,25,Very unhealthy,Low
+68,Bangalore,85,Very High,10,3.5,45,Very unhealthy,Low
+69,Ho Chi Minh City,90,Very High,5,2.8,40,Very unhealthy,Low
+70,Jakarta,85,Very High,10,3.0,35,Very unhealthy,Low
+71,Perth,60,Low,60,7.7,110,Moderate,High
+72,Adelaide,55,Low,65,7.8,105,Good,High
+73,Brisbane,60,Low,70,7.9,100,Good,High
+74,Canberra,55,Low,75,8.0,95,Good,High
+75,Wellington,50,Low,80,8.1,90,Good,High
+76,Christchurch,55,Low,85,8.2,85,Good,High
+77,Dunedin,50,Low,90,8.3,80,Good,High
+78,Queenstown,55,Low,95,8.4,75,Good,High
+79,Nelson,50,Low,100,8.5,70,Good,High
+80,Napier,55,Low,105,8.6,65,Good,High
+81,Hamilton,60,Medium,110,8.2,60,Good,High
+82,Tauranga,55,Low,115,8.3,55,Good,High
+83,Rotorua,50,Low,120,8.4,50,Good,High
+84,Palmerston North,55,Low,125,8.5,45,Good,High
+85,New Plymouth,60,Medium,130,8.1,40,Good,High
+86,Lower Hutt,55,Low,135,8.2,35,Good,High
+87,Napier,50,Low,140,8.3,30,Good,High
+88,Gisborne,55,Low,145,8.4,25,Good,High
+89,Kawerau,60,Medium,150,8.0,20,Good,High
+90,Putaruru,55,Low,155,8.1,25,Good,High
+91,Taupo,50,Low,160,8.2,20,Good,High
+92,Tokoroa,55,Low,165,8.3,25,Good,High
+93,Te Kuiti,60,Medium,170,7.9,20,Good,High
+94,Otorohanga,55,Low,175,8.0,25,Good,High
+95,Te Awamutu,50,Low,180,8.1,20,Good,High
+96,Cambridge,55,Low,185,7.8,25,Good,High
+97,Matamata,60,Medium,190,7.6,20,Good,High
+98,Te Aroha,55,Low,195,7.7,25,Good,High
+99,Paeroa,50,Low,200,7.8,20,Good,High
+100,Waihi,55,Low,205,7.5,25,Good,High
+101,Whangamata,60,Medium,210,7.3,20,Good,High
+102,Tairua,55,Low,215,7.4,25,Good,High
+103,Whitianga,50,Low,220,7.5,20,Good,High
+104,Coromandel,55,Low,225,7.2,25,Good,High
+105,Whangaparaoa,60,Medium,230,7.0,20,Good,High
+106,Orewa,55,Low,235,7.1,25,Good,High
+107,Warkworth,50,Low,240,6.8,20,Good,High
+108,Matakana,55,Low,245,6.5,25,Good,High
+109,Leigh,60,Medium,250,6.2,20,Good,High
+110,Wellsford,55,Low,255,6.0,25,Good,High
+111,Mangawhai,50,Low,260,5.8,20,Good,High
+112,Te Hana,55,Low,265,5.5,25,Good,High
+113,Waipu,60,Medium,270,5.2,20,Good,High
+114,Ruakaka,55,Low,275,5.0,25,Good,High
+115,Whangarei,50,Low,280,4.8,20,Good,Low
+116,Dargaville,55,Low,285,4.5,25,Good,Low
+117,Kaitaia,60,Medium,290,4.2,20,Good,Low
+118,Kaikohe,55,Low,295,4.0,25,Good,Low
+119,Kerikeri,50,Low,300,3.8,20,Good,Low
+120,Paihia,55,Low,305,3.5,25,Good,Low
+121,Russell,60,Medium,310,3.2,20,Good,Low
+122,Opua,55,Low,315,3.0,25,Good,Low
+123,Kohukohu,50,Low,320,2.8,20,Good,Low
+124,Horeke,55,Low,325,2.5,25,Good,Low
+125,Rawene,60,Medium,330,2.2,20,Good,Low
+126,Omapere,55,Low,335,2.0,25,Good,Low
+127,Opononi,50,Low,340,1.8,20,Good,Low
+128,Waimamaku,55,Low,345,1.5,25,Good,Low
+129,Waipoua,60,Medium,350,1.2,20,Good,Low
+130,Aranga,55,Low,355,1.0,25,Good,Low
+131,Matapouri,50,Low,360,0.8,20,Good,Low
+132,Tutukaka,55,Low,365,0.5,25,Good,Low
+133,Whananaki,60,Medium,370,0.2,20,Good,Low
